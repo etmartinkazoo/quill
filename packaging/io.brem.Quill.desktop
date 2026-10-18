@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Quill
+GenericName=Notes
+Comment=Notes, kept on this computer
+Exec=quill
+Icon=accessories-text-editor
+Terminal=false
+Categories=Office;Utility;GTK;
+Keywords=notes;checklist;memo;
+StartupNotify=true
+StartupWMClass=io.brem.Quill
